@@ -1,3 +1,6 @@
+/*
+ * This is the application, built on Dave's App. 
+ */
 
 
 public class AnimalApp {

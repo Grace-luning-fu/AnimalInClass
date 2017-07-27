@@ -1,3 +1,7 @@
+/*
+* All Pandas are Animals but all Animals are not Pandas
+*/
+
 public class Panda extends Animal {
 
 	public Panda ()
